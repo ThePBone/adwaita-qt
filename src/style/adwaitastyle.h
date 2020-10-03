@@ -22,8 +22,7 @@
 #ifndef ADWAITA_STYLE_H
 #define ADWAITA_STYLE_H
 
-#include "adwaita.h"
-#include "config-adwaita.h"
+#include "../lib/adwaita.h"
 
 #include <QAbstractItemView>
 #include <QAbstractScrollArea>

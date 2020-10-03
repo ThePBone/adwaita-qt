@@ -22,7 +22,6 @@
 
 #include "adwaita.h"
 #include "adwaitaqt_export.h"
-#include "config-adwaita.h"
 
 #include <QEvent>
 

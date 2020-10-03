@@ -24,7 +24,6 @@
 
 #include "adwaita.h"
 #include "animations/adwaitaanimationdata.h"
-#include "config-adwaita.h"
 
 #include <QPainterPath>
 #include <QStyle>
